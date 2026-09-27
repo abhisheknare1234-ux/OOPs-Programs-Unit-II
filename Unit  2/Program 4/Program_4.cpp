@@ -10,7 +10,7 @@ protected:
 
 public:
 
-    // Constructor of Person class
+    // Constructor of Person class 
     explicit Person(std::string personName)
         : name(std::move(personName)) {}
 
