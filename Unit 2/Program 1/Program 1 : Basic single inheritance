@@ -29,7 +29,7 @@ It contains:
 - "displayStudent()" – Displays the student's name and roll number.
 - The "Student" constructor calls the "Person" constructor to initialize the student's name.
 
----
+--
 
 ⚙️ Main Function
 
