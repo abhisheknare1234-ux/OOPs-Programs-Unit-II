@@ -84,3 +84,10 @@ int main()
     // Indicate successful program termination
     return 0;
 }
+
+
+🎯 Expected Output
+First distance: 120 meters
+Second distance: 120 meters
+First distance is not greater
+Both distances are equal
